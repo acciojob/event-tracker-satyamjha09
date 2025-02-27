@@ -1,1 +1,16 @@
 
+.filter-buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  .filter-buttons button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  .popup-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
